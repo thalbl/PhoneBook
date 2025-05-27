@@ -1,6 +1,4 @@
 # PhoneBook
-Here's a concise README and LinkedIn post in both languages:
-
 ---
 
 **README.md (English/Português)**
